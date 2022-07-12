@@ -1,0 +1,27 @@
+[{
+		"name": "Is The Woman King based on a true story?",
+		"description": "The Woman King tells the remarkable story of the Agojie, the all-female unit of warriors who protected the African Kingdom of Dahomey in the 1800s with skills and a fierceness unlike anything the world has ever seen, according to Sony Pictures. The film is inspired by true events.",
+		"img": "https://m.media-amazon.com/images/M/MV5BNDYwYjMwMTEtMjY5MS00NGJjLTlmODMtNmZhMTc4ZDkwODhhXkEyXkFqcGdeQXVyMzQ0NDM5NTk@._V1_.jpg"
+	},
+	{
+		"name": "definition of the woman king ",
+		"description": "The Woman King is an upcoming American historical epic film directed by Gina Prince-Bythewood, from a screenplay she co-wrote with Dana Stevens and a story by Maria Bello. It is based on the true story of the Dahomey Amazons. It stars Viola Davis, Thuso Mbedu, Lashana Lynch, Sheila Atim, Hero Fiennes Tiffin, and John Boyega. Davis and Bello also produced the film. The film is scheduled to be released in the United States on September 16, 2022, by Sony Pictures Releasing.",
+		"img": "https://pics.filmaffinity.com/The_Woman_King-769608671-large.jpg"
+	}, {
+		"name": "What book is The Woman King based on",
+		"description": "The Woman King is an upcoming American historical epic film directed by Gina Prince-Bythewood, from a screenplay she co-wrote with Dana Stevens and a story by Maria Bello. It is based on the true story of the Dahomey Amazons.",
+		"img": "https://media.vanityfair.com/photos/62bf1e3f5098c0fb3b19531d/master/pass/The-Woman-King-01.jpg"
+	}, {
+		"name": "Is the woman in the window fiction",
+		"description": "THE WOMAN IN THE WINDOW was inspired by a range of experiences: my love for suspense fiction, from the Sherlock Holmes stories I devoured as a kid to the crime novels I studied in graduate school; my interest in classic cinema, especially the films of Alfred Hitchcock; and my experience with bipolar depression.",
+		"img": "https://img.game-news24.com/2022/02/The-Woman-King-photos-First-Look-at-Viola-Davis-in-his-description-as-the-general-of-Nanisca.jpeg"
+	}, {
+		"name": "production",
+		"description": "On September 19, 2015, during the Women Making History Awards at the Skirball Cultural Center's National Women's History Museum in Los Angeles, producer Maria Bello presented an award to actress Viola Davis.Bello took the opportunity to pitch her idea for the movie in front of the crowd. Davis recalled the audience "went wild" at the idea of seeing her in the lead role of the historical epic. The Woman King was developed by Bello and producer Cathy Schulman, written by Dana Stevens with contributions by Gina Prince-Bythewood, and directed by Prince-Bythewood.It is a co-production between TriStar Pictures and Entertainment One. Davis and Lupita Nyong'o were announced to star in March 2018,but the latter dropped out before production began. The rest of the ensemble cast was announced between April 2021 and January 2022.",
+		"img": "https://nixolympia.com/wp-content/uploads/2022/07/The-Woman-King-is-not-to-be-mocked-in-the.jpg"
+	}, {
+		"name": "Synopsis",
+		"description": " The film focuses on General Nanisca of the Dahomey Amazons (an all-female military regiment of the Kingdom of Dahomey) and Nawi, an ambitious recruit. It depicts how they  fought enemies who violated their honor, enslaved their people, and threatened to destroy everything they have lived for.",
+		"img": "https://fangirlish.com/wp-content/uploads/2022/07/TWK-Agojie.jpg"
+	}
+]
